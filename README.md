@@ -1,6 +1,6 @@
 # Docker in Docker + Jenkins
 
-This is a docker image with Jenkins, on the 2.3 version, with the docker (+ docker-compose) deamon inside, using just the docker.sock of the host.
+This is a docker image with Jenkins, on the 2.3 version, with the docker (+ docker-compose) daemon inside, using just the docker.sock of the host.
 
 ## How to build and run
 
